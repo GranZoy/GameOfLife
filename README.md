@@ -2,6 +2,8 @@
 
 This project is available in:
 - [Русский] https://github.com/GranZoy/LifeMIPT/blob/main/README.ru.md
+ 
+▶ [Play on itch.io](https://granzoy.itch.io/lifemipt)
 
 The game is a visualization of the cellular automaton "Life."  
 
